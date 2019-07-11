@@ -20,3 +20,4 @@ Megnevezni az egymásra épülő alkalmazásainkat és megrajzolni az összefüg
 Készítsünk egy (továbbfejleszthető) oktató alkalmazást, ahova
 - oktatók tudnak tanfolyamokt feltölteni
 -hallgatól tudnak ilyen tanfolyamokat elvégezni
+- változtatás csak a code használat gyakorlása miatt
