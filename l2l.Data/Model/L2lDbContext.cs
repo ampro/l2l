@@ -5,7 +5,7 @@ namespace l2l.Data.Model
 {
     public class L2lDbContext : DbContext
     {
-        public L2lDbContext( DbContextOptions options) : base(options)
+        public L2lDbContext( DbContextOptions options) : base(options) //Amit pirossal aláhúz az törölhető
         {
         } 
 
